@@ -45,7 +45,7 @@ namespace GrandCircusLab11
             Movie BillyMadison = new Movie("Billy Madison", "comedy");
             Movie TopGun = new Movie("Top Gun", "drama");
             Movie OlympusHasFallan = new Movie("Olympus Has Fallen", "action");
-            Movie EvilDead = new Movie("Evil Dead", "horror");
+            Movie EvilDead = new Movie("Evil Dead, The", "horror");
             Movie BattleLA = new Movie("Battle: Los Angeles", "scifi");
             Movie HappyGilmore = new Movie("Happy Gilmore", "sports");
             Movie MontyPython = new Movie("Monty Python and the Holy Grail", "comedy");
@@ -65,7 +65,7 @@ namespace GrandCircusLab11
             Movie DarkKnight = new Movie("Dark Knight, The", "action");
             Movie JurrasicPark = new Movie("Jurassic Park", "action");
             Movie Frailty = new Movie("Frailty", "horror");
-            Movie TheThing = new Movie("The Thing", "horror");
+            Movie TheThing = new Movie("Thing, The", "horror");
             Movie Apollo13 = new Movie("Apollo 13", "drama");
             Movie Taken = new Movie("Taken", "action");
             Movie EdgeOfTomorrow = new Movie("Edge of Tomorrow", "scifi");
@@ -89,7 +89,7 @@ namespace GrandCircusLab11
                 OlympusHasFallan, EvilDead, BattleLA, HappyGilmore, MontyPython, Mohicans, T2, MightyDucks, Armageddon, Gump,
                 Raiders, Dumb, NewHope, Empire, Jedi, GrandmasBoy, DieHard, WarOfTheWorlds, DarkKnight, JurrasicPark, Frailty,
                 Apollo13, Taken, EdgeOfTomorrow, WindRiver, Dredd, Goon, Pirates, Miracle, BigLebowski, Wrestler, Rocky4,
-                RoadWarrior, WeekendAtBernies, BreakfastClub, AustinPowers
+                RoadWarrior, WeekendAtBernies, BreakfastClub, AustinPowers, Tron, TheThing
             };
 
             return movieList;
